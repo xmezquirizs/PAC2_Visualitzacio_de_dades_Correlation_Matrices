@@ -7,7 +7,7 @@ Aquest repositori conté l'anàlisi de correlació entre variables quantitatives
 ## Contingut del repositori
 
 * **exped.csv**: dataset csv utilitzat.
-* **README.md**: Documentació del projecte.
+* **README.md**: documentació del projecte.
 * **PAC2_Visualitzacio_de_dades_Correlation_Matrices.ipynb**: arxiu ipynb amb el codi.
 * **PAC2_Visualitzacio_de_dades_Correlation_Matrices.html**: arxiu html amb el codi.
 
