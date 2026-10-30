@@ -8,8 +8,8 @@ Aquest repositori conté l'anàlisi de correlació (amb matrius de correlació) 
 
 * **exped.csv**: dataset csv utilitzat.
 * **README.md**: documentació del projecte.
-* **PAC2_Visualitzacio_de_dades_Correlation_Matrices.ipynb**: arxiu ipynb amb el codi.
-* **PAC2_Visualitzacio_de_dades_Correlation_Matrices.html**: arxiu html amb el codi.
+* **PAC2_Visualitzacio_de_dades_Correlation_Matrices.ipynb**: arxiu ipynb amb el codi Python.
+* **PAC2_Visualitzacio_de_dades_Correlation_Matrices.html**: arxiu html amb el codi Python.
 
 ## Fonts i Llicència
 
