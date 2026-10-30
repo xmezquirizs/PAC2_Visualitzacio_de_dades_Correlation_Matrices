@@ -2,7 +2,7 @@
 
 # Anàlisi de Correlació de les Expedicions a l'Himàlaia
 
-Aquest repositori conté l'anàlisi de correlació entre variables quantitatives relacionades amb l'històric d'expedicions realitzades a l'Himàlaia.
+Aquest repositori conté l'anàlisi de correlació (amb matrius de correlació) entre variables quantitatives relacionades amb l'històric d'expedicions realitzades a l'Himàlaia.
 
 ## Contingut del repositori
 
